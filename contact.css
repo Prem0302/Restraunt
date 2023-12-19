@@ -1,0 +1,27 @@
+.h3{
+    text-align: center;
+    color:rgb(243, 245, 251);
+}
+.h2{
+    text-align: center;
+    color:rgb(234, 225, 222);
+}
+form{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(Images/contact.jpg);
+    padding: 100px;
+}
+.btn{
+    background-color: gold;
+    height: 34px;
+    display: block;
+    margin: auto;
+}
+    
+
+    
