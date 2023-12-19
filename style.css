@@ -1,0 +1,40 @@
+ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #f8f7f7;
+  }
+  
+  li {
+    float:left
+  }
+  
+  li a {
+    display: block;
+    color:rgb(238, 238, 12)
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+    
+  }
+  
+  li a:hover {
+    background-color: #eb9007;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+  
+
+p{
+   
+}
+body{
+    background-image: url(Images/bg-img.jpg);
+}
+.p1{
+    font-size: x-large;
+     color: rgb(228, 221, 221);
+    text-align: center;   
+    text-align-last: left; 
+}
