@@ -1,0 +1,17 @@
+.text{
+  text-align: center;
+}
+div{
+  text-align: center;
+}
+hr{
+  background-color: yellow;
+}
+.h2 {
+  color: rgb(209, 61, 11);
+  text-align: center;
+}
+.h1 {
+  text-align: center;
+  color: rgb(223, 53, 14);
+}
